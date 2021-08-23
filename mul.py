@@ -1,0 +1,1 @@
+print("only function to multiply bhai")
