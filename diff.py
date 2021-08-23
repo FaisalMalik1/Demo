@@ -1,0 +1,1 @@
+print("nayi file bnayi hai practice kelye")
